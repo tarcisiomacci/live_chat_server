@@ -1,6 +1,6 @@
-# 🧠 NLW Agents
+# 🧠 Live Chat
 
-Projeto desenvolvido durante um evento da **Rocketseat**, utilizando tecnologias modernas para criação de uma API robusta e eficiente.
+Projeto desenvolvido utilizando tecnologias modernas para criação de uma API robusta e eficiente.
 
 ---
 
